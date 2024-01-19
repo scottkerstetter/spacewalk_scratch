@@ -1,5 +1,6 @@
 # spacewalk_scratch
-This version of my game Spacewalk was built in Scratch as homework for CS50.
+This version of my game Spacewalk was built in Scratch as homework for CS50. <br/>
+[Click here to play Spacewalk on Scratch](https://scratch.mit.edu/projects/952443799/)
 
 ## Game Description
 Our favorite little astronaut is floating above earth and must catch the hearts of their fans! The score goes up for every heart collected and goes down for every heart that escapes.  Every 30 seconds the level increases and the number of hearts grows.  How many hearts can you catch?!
